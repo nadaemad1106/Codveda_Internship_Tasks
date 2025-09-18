@@ -1,7 +1,7 @@
 # 🌸 KNN on Iris Dataset
 
 ## 📌 Overview
-This project uses **K-Nearest Neighbors (KNN)** to classify flowers from the **Iris dataset** into:
+This Task uses **K-Nearest Neighbors (KNN)** to classify flowers from the **Iris dataset** into:
 - Setosa  
 - Versicolor  
 - Virginica  
